@@ -3,6 +3,9 @@ img {
 }
 
 body {
+    background-image: url("http://datarecovery.wondershare.com/wp-content/uploads/cool-android-wallpaper-04.jpg");
+    background-size: 300px;
     text-align: center;
     font-family: "Arial";
+    color: white;
 }
